@@ -7,10 +7,10 @@ import herd.asynctest {
 import herd.junc.core {
 	Railway,
 	startJuncCore,
-	JuncOptions
+	JuncOptions,
+	LogWriter
 }
 import herd.junc.api.monitor {
-	LogWriter,
 	Priority
 }
 import ceylon.test {

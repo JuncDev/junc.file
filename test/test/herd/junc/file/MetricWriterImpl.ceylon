@@ -1,4 +1,4 @@
-import herd.junc.api.monitor {
+import herd.junc.core {
 
 	MetricWriter,
 	MetricSet
